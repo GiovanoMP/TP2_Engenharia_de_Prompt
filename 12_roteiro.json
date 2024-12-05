@@ -1,0 +1,56 @@
+{
+  "roteiro": {
+    "roma": {
+      "prompt": "Liste 3 dos principais pontos turísticos de Roma, Itália.",
+      "resposta": {
+        "cidade": "Roma",
+        "pontos_turisticos": [
+          {
+            "nome": "Coliseu",
+            "visitantes_anuais": 7500000,
+            "descricao": "Anfiteatro romano construído no século I d.C., o maior já construído no Império Romano. Palco de lutas de gladiadores e espetáculos públicos.",
+            "importancia": "Símbolo icônico de Roma e uma das Sete Maravilhas do Mundo Moderno, oferece uma visão única da engenharia e arquitetura romana antiga."
+          },
+          {
+            "nome": "Basílica de São Pedro",
+            "visitantes_anuais": 5000000,
+            "descricao": "Centro da Igreja Católica e maior igreja do mundo, construída sobre o túmulo do apóstolo São Pedro no século XVI.",
+            "importancia": "Principal templo do catolicismo e obra-prima da arquitetura renascentista, com contribuições de artistas como Michelangelo."
+          },
+          {
+            "nome": "Fontana di Trevi",
+            "visitantes_anuais": 8000000,
+            "descricao": "Maior e mais famosa fonte barroca de Roma, completada em 1762. Representa o deus Oceano em seu carro puxado por cavalos marinhos.",
+            "importancia": "Além de sua beleza arquitetônica, é famosa pela tradição de jogar moedas para garantir o retorno a Roma."
+          }
+        ]
+      }
+    },
+    "atenas": {
+      "prompt": "Liste 3 dos principais pontos turísticos de Atenas, Grécia.",
+      "resposta": {
+        "cidade": "Atenas",
+        "pontos_turisticos": [
+          {
+            "nome": "Acrópole e Parthenon",
+            "visitantes_anuais": 3000000,
+            "descricao": "Antiga cidadela localizada em um platô calcário, dominada pelo Parthenon, templo dedicado à deusa Atena construído no século V a.C.",
+            "importancia": "Símbolo máximo da civilização grega antiga e da democracia ateniense, representa o ápice da arquitetura clássica."
+          },
+          {
+            "nome": "Ágora Antiga",
+            "visitantes_anuais": 1500000,
+            "descricao": "Centro comercial, social e político da antiga Atenas, onde filósofos como Sócrates debatiam e a democracia se desenvolveu.",
+            "importancia": "Permite compreender a vida cotidiana na antiga Grécia e o berço da democracia ocidental."
+          },
+          {
+            "nome": "Templo de Zeus Olímpico",
+            "visitantes_anuais": 2000000,
+            "descricao": "Maior templo da Grécia antiga, sua construção levou cerca de 700 anos, sendo completado no século II d.C.",
+            "importancia": "Impressionante exemplo da arquitetura grega antiga e da devoção aos deuses olímpicos."
+          }
+        ]
+      }
+    }
+  }
+}

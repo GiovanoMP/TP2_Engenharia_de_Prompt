@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+pandas
+matplotlib
+pyyaml
+jupyter
+ipykernel

@@ -1,0 +1,23 @@
+
+roteiro:
+  roma:
+    prompt: |
+      Liste 3 dos principais pontos turísticos de Roma, Itália.
+      Para cada ponto turístico, forneça:
+      1. Nome do local
+      2. Número aproximado de visitantes anuais
+      3. Uma breve descrição histórica e cultural
+      4. Por que é importante visitar este local
+
+      Formate a resposta de forma clara e organizada, com cada ponto turístico separado por seções.
+      
+  atenas:
+    prompt: |
+      Liste 3 dos principais pontos turísticos de Atenas, Grécia.
+      Para cada ponto turístico, forneça:
+      1. Nome do local
+      2. Número aproximado de visitantes anuais
+      3. Uma breve descrição histórica e cultural
+      4. Por que é importante visitar este local
+
+      Formate a resposta de forma clara e organizada, com cada ponto turístico separado por seções.
